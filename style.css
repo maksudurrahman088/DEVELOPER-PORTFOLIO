@@ -9,6 +9,7 @@ h1{
 }
 section{
      display:flex;
+     margin-bottom: 0px;
 }
 .half-width{
      width:50%;
@@ -24,5 +25,15 @@ padding: 7px 20px;
 border-radius: 22px;
 }
 .top-banner{
-     background-color: rgba(129, 12, 51, 0.76);
+     background-color: rgba(143, 27, 65, 0.719);
+}
+.work-hard{
+     width:50%;
+     padding-left:5%;
+}
+.work-hard img{
+          width:80%;
+}
+.banner{
+     background-color:antiquewhite;
 }
